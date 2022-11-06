@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48021" started-at="2022-11-05T20:21:37 IST" finished-at="2022-11-05T20:22:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48021" started-at="2022-11-05T20:21:37 IST" finished-at="2022-11-05T20:22:25 IST">
+      <class name="com.mystore.testcases.TC_ProductPageTest">
+        <test-method status="PASS" signature="RunBrowser()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@33f88ab]" name="RunBrowser" is-config="true" duration-ms="24583" started-at="2022-11-05T20:21:38 IST" finished-at="2022-11-05T20:22:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunBrowser -->
+        <test-method status="PASS" signature="verifyAddToWishlistWithoutLogin()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@33f88ab]" name="verifyAddToWishlistWithoutLogin" duration-ms="3807" started-at="2022-11-05T20:22:02 IST" finished-at="2022-11-05T20:22:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToWishlistWithoutLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@33f88ab]" name="tearDown" is-config="true" duration-ms="18330" started-at="2022-11-05T20:22:06 IST" finished-at="2022-11-05T20:22:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
